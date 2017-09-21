@@ -35,7 +35,7 @@
             // btnShow
             // 
             this.btnShow.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnShow.Location = new System.Drawing.Point(129, 190);
+            this.btnShow.Location = new System.Drawing.Point(84, 190);
             this.btnShow.Name = "btnShow";
             this.btnShow.Size = new System.Drawing.Size(124, 37);
             this.btnShow.TabIndex = 0;
@@ -49,7 +49,7 @@
             this.lblHelloWorld.AutoSize = true;
             this.lblHelloWorld.Font = new System.Drawing.Font("Mistral", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHelloWorld.ForeColor = System.Drawing.Color.Red;
-            this.lblHelloWorld.Location = new System.Drawing.Point(50, 93);
+            this.lblHelloWorld.Location = new System.Drawing.Point(5, 93);
             this.lblHelloWorld.Name = "lblHelloWorld";
             this.lblHelloWorld.Size = new System.Drawing.Size(0, 44);
             this.lblHelloWorld.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(388, 262);
+            this.ClientSize = new System.Drawing.Size(298, 262);
             this.Controls.Add(this.lblHelloWorld);
             this.Controls.Add(this.btnShow);
             this.Name = "frmHelloWorld";
